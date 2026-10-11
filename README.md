@@ -6,26 +6,26 @@
 
 最新一天见 [`daily/`](daily/) 下日期最新的文件。本 README 的「最新」一节始终链到当天推荐，并给出前五条预览；完整名单以当日文件为准。
 
-## 最新 · 2026-10-10
+## 最新 · 2026-10-11
 
-完整内容：[daily/2026-10-10.md](daily/2026-10-10.md)
+完整内容：[daily/2026-10-11.md](daily/2026-10-11.md)
 
-来源：GitHub Trending（日榜）+ 近期高星新仓筛选。今日前五：
+来源：GitHub Trending（日榜/周榜）+ 近期高星新仓筛选。今日前五：
 
-1. **[morluto/rea](https://github.com/morluto/rea)** · TypeScript · ~63k★ · 今日约 +25.8k  
-   用 agent 做逆向：从应用行为一路到 native binary。
+1. **[boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)** · C++ · ~26.8k★ · 今日约 +5.8k  
+   把 PS5 可执行文件自动移植到 Linux / Windows 的工具链，周榜也排前列。
 
-2. **[mattpocock/skills](https://github.com/mattpocock/skills)** · Shell · ~284k★ · 今日约 +1.7k  
-   实战向工程 Skills，直接从 `.agents` 目录整理而来。
+2. **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** · TypeScript · ~99.2k★ · 本周约 +4k  
+   跨会话持久记忆：捕获 agent 行为、压缩后注入后续会话，兼容 Claude Code / Codex / Copilot 等。
 
-3. **[cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)** · HTML · ~48.6k★ · 今日约 +1.2k  
-   给 Claude Code / Codex / Copilot 等用的编辑向图示设计（44 种图，纯 HTML+SVG）。
+3. **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** · TypeScript · ~60.4k★ · 本周约 +4k  
+   写 HTML 渲视频，面向 agent 的视频渲染框架。
 
-4. **[storytold/artcraft](https://github.com/storytold/artcraft)** · Rust · ~13.2k★ · 今日约 +3.2k  
-   面向艺术家/设计师/影视的意图式 crafting 引擎。
+4. **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** · JavaScript · ~104.5k★  
+   Addy Osmani 整理的生产级工程 Skills，可给 Cursor / Claude Code / Codex 等用。
 
-5. **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** · Python · ~59k★ · 今日约 +372  
-   AI 把文档/主题做成原生 PPT（形状、动画、图表、旁白、模板）。
+5. **[alibaba/open-code-review](https://github.com/alibaba/open-code-review)** · Go · ~45.9k★  
+   阿里开源代码评审：确定性流水线 + LLM Agent，行级评论，内置 NPE/并发/XSS/注入等规则。
 
 ## 仓库结构
 
