@@ -6,26 +6,26 @@
 
 最新一天见 [`daily/`](daily/) 下日期最新的文件。本 README 的「最新」一节始终链到当天推荐，并给出前五条预览；完整名单以当日文件为准。
 
-## 最新 · 2026-10-12
+## 最新 · 2026-10-13
 
-完整内容：[daily/2026-10-12.md](daily/2026-10-12.md)
+完整内容：[daily/2026-10-13.md](daily/2026-10-13.md)
 
 来源：GitHub 遗珠筛选（约 200–2000★）+ X 近 48h 仓库推荐。今日前五：
 
-1. **[tt-a1i/hive](https://github.com/tt-a1i/hive)** · TypeScript · ~565★  
-   CLI coding agent 的本机「蜂巢」协作壳（与 archify 同作者）。发现：X @Manorgw
+1. **[dzhng/skills](https://github.com/dzhng/skills)** · TypeScript · ~1243★  
+   软件工厂向可复用 Agent Skills。发现：X @yupi996
 
-2. **[ARahim3/DigUp](https://github.com/ARahim3/DigUp)** · Swift · ~996★  
-   Mac 本地按内容语义搜文件。发现：X @dogoows
+2. **[franzenzenhofer/big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)** · Swift · ~669★  
+   Mac 上让 agent 画箭头指按钮。发现：X @repoRadar_ai
 
-3. **[Dicklesworthstone/coding_agent_session_search](https://github.com/Dicklesworthstone/coding_agent_session_search)** · Rust · ~1171★  
-   跨 provider 索引/搜索本机 agent 会话历史。发现：GitHub
+3. **[dualface/ste-zh](https://github.com/dualface/ste-zh)** · ~267★  
+   中文 STE 风格汇报 skill。发现：X @XiaotiaoWang
 
-4. **[weapp-tailwindcss/weapp-tailwindcss](https://github.com/weapp-tailwindcss/weapp-tailwindcss)** · TypeScript · ~1865★  
-   微信小程序等全端 Tailwind。发现：GitHub
+4. **[krishhgg/Insomnia](https://github.com/krishhgg/Insomnia)** · Swift · ~1174★  
+   合盖也能保唤醒，方便长跑 agent。发现：GitHub
 
-5. **[hanliang97/MatrixMedia](https://github.com/hanliang97/MatrixMedia)** · JavaScript · ~948★  
-   Vue 视频矩阵发布（含小红书等）。发现：GitHub
+5. **[repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce)** · Swift · ~953★  
+   macOS 上下文工程 App。发现：GitHub
 
 ## 仓库结构
 
