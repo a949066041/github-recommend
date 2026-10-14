@@ -6,26 +6,26 @@
 
 最新一天见 [`daily/`](daily/) 下日期最新的文件。本 README 的「最新」一节始终链到当天推荐，并给出前五条预览；完整名单以当日文件为准。
 
-## 最新 · 2026-10-13
+## 最新 · 2026-10-14
 
-完整内容：[daily/2026-10-13.md](daily/2026-10-13.md)
+完整内容：[daily/2026-10-14.md](daily/2026-10-14.md)
 
 来源：GitHub 遗珠筛选（约 200–2000★）+ X 近 48h 仓库推荐。今日前五：
 
-1. **[dzhng/skills](https://github.com/dzhng/skills)** · TypeScript · ~1243★  
-   软件工厂向可复用 Agent Skills。发现：X @yupi996
+1. **[qunqin24/Pulse](https://github.com/qunqin24/Pulse)** · Swift · ~539★  
+   Mac 菜单栏看各 AI 编码工具剩余额度。发现：GitHub
 
-2. **[franzenzenhofer/big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)** · Swift · ~669★  
-   Mac 上让 agent 画箭头指按钮。发现：X @repoRadar_ai
+2. **[aindeev/agent-chrome-relay](https://github.com/aindeev/agent-chrome-relay)** · ~275★  
+   agent 借用你已登录的 Chrome 操作隐藏标签页。发现：X @QingQ77
 
-3. **[dualface/ste-zh](https://github.com/dualface/ste-zh)** · ~267★  
-   中文 STE 风格汇报 skill。发现：X @XiaotiaoWang
+3. **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** · ~1516★  
+   ESP32 让模型操作真机 iPhone。发现：X @Z3nlyte
 
-4. **[krishhgg/Insomnia](https://github.com/krishhgg/Insomnia)** · Swift · ~1174★  
-   合盖也能保唤醒，方便长跑 agent。发现：GitHub
+4. **[antfu/skills-npm](https://github.com/antfu/skills-npm)** · TypeScript · ~567★  
+   从 npm 安装 agent skills。发现：GitHub
 
-5. **[repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce)** · Swift · ~953★  
-   macOS 上下文工程 App。发现：GitHub
+5. **[jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions)** · Swift · ~901★  
+   macOS 上浏览/恢复 coding agent 会话。发现：GitHub
 
 ## 仓库结构
 
