@@ -6,26 +6,26 @@
 
 最新一天见 [`daily/`](daily/) 下日期最新的文件。本 README 的「最新」一节始终链到当天推荐，并给出前五条预览；完整名单以当日文件为准。
 
-## 最新 · 2026-10-14
+## 最新 · 2026-10-15
 
-完整内容：[daily/2026-10-14.md](daily/2026-10-14.md)
+完整内容：[daily/2026-10-15.md](daily/2026-10-15.md)
 
 来源：GitHub 遗珠筛选（约 200–2000★）+ X 近 48h 仓库推荐。今日前五：
 
-1. **[qunqin24/Pulse](https://github.com/qunqin24/Pulse)** · Swift · ~539★  
-   Mac 菜单栏看各 AI 编码工具剩余额度。发现：GitHub
+1. **[chubbyguan/chubbyskills](https://github.com/chubbyguan/chubbyskills)** · Python · ~1244★  
+   小红书等全渠道内容采集进知识库的 14 个 AI Skill。发现：GitHub
 
-2. **[aindeev/agent-chrome-relay](https://github.com/aindeev/agent-chrome-relay)** · ~275★  
-   agent 借用你已登录的 Chrome 操作隐藏标签页。发现：X @QingQ77
+2. **[joewongjc/type4me](https://github.com/joewongjc/type4me)** · Swift · ~1488★  
+   macOS 本地语音输入法 + 大模型润色。发现：GitHub
 
-3. **[onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)** · ~1516★  
-   ESP32 让模型操作真机 iPhone。发现：X @Z3nlyte
+3. **[FluidInference/FluidUse](https://github.com/FluidInference/FluidUse)** · Swift · ~512★  
+   Apple Silicon 本地 computer use。发现：GitHub
 
-4. **[antfu/skills-npm](https://github.com/antfu/skills-npm)** · TypeScript · ~567★  
-   从 npm 安装 agent skills。发现：GitHub
+4. **[DavidLam-oss/obsidian-wechat-converter](https://github.com/DavidLam-oss/obsidian-wechat-converter)** · ~337★  
+   Obsidian → 公众号 / 小红书等多平台草稿。发现：GitHub
 
-5. **[jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions)** · Swift · ~901★  
-   macOS 上浏览/恢复 coding agent 会话。发现：GitHub
+5. **[weapp-vite/weapp-vite](https://github.com/weapp-vite/weapp-vite)** · TypeScript · ~513★  
+   Vite 工作流进微信小程序。发现：GitHub
 
 ## 仓库结构
 
