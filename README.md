@@ -6,26 +6,26 @@
 
 最新一天见 [`daily/`](daily/) 下日期最新的文件。本 README 的「最新」一节始终链到当天推荐，并给出前五条预览；完整名单以当日文件为准。
 
-## 最新 · 2026-10-15
+## 最新 · 2026-10-18
 
-完整内容：[daily/2026-10-15.md](daily/2026-10-15.md)
+完整内容：[daily/2026-10-18.md](daily/2026-10-18.md)
 
 来源：GitHub 遗珠筛选（约 200–2000★）+ X 近 48h 仓库推荐。今日前五：
 
-1. **[chubbyguan/chubbyskills](https://github.com/chubbyguan/chubbyskills)** · Python · ~1244★  
-   小红书等全渠道内容采集进知识库的 14 个 AI Skill。发现：GitHub
+1. **[feder-cr/git-ai](https://github.com/feder-cr/git-ai)** · Go · ~1135★  
+   面向 AI agent 的 Git（CAS 落地变更）。发现：X @KissonL
 
-2. **[joewongjc/type4me](https://github.com/joewongjc/type4me)** · Swift · ~1488★  
-   macOS 本地语音输入法 + 大模型润色。发现：GitHub
+2. **[higress-group/HiRoute](https://github.com/higress-group/HiRoute)** · Rust · ~234★  
+   本地优先的长程 agent 路由与协调。发现：X @changanjohn
 
-3. **[FluidInference/FluidUse](https://github.com/FluidInference/FluidUse)** · Swift · ~512★  
-   Apple Silicon 本地 computer use。发现：GitHub
+3. **[reason-machines/reason-network](https://github.com/reason-machines/reason-network)** · Rust · ~217★  
+   队友 coding agent 会话 P2P 可见互呼。发现：X @Z3nlyte
 
-4. **[DavidLam-oss/obsidian-wechat-converter](https://github.com/DavidLam-oss/obsidian-wechat-converter)** · ~337★  
-   Obsidian → 公众号 / 小红书等多平台草稿。发现：GitHub
+4. **[CatVinci-Studio/Textus](https://github.com/CatVinci-Studio/Textus)** · TypeScript · ~122★  
+   Markdown 编辑器 + AI 写作助手。发现：X @jaywcjlove
 
-5. **[weapp-vite/weapp-vite](https://github.com/weapp-vite/weapp-vite)** · TypeScript · ~513★  
-   Vite 工作流进微信小程序。发现：GitHub
+5. **[mirzaaghazadeh/iphone-duo-skills](https://github.com/mirzaaghazadeh/iphone-duo-skills)** · Python · ~163★  
+   iPhone Duo 折叠屏设计 agent skills。发现：X @pkyanam
 
 ## 仓库结构
 
