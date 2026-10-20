@@ -6,26 +6,26 @@
 
 最新一天见 [`daily/`](daily/) 下日期最新的文件。本 README 的「最新」一节始终链到当天推荐，并给出前五条预览；完整名单以当日文件为准。
 
-## 最新 · 2026-10-15
+## 最新 · 2026-10-20
 
-完整内容：[daily/2026-10-15.md](daily/2026-10-15.md)
+完整内容：[daily/2026-10-20.md](daily/2026-10-20.md)
 
 来源：GitHub 遗珠筛选（约 200–2000★）+ X 近 48h 仓库推荐。今日前五：
 
-1. **[chubbyguan/chubbyskills](https://github.com/chubbyguan/chubbyskills)** · Python · ~1244★  
-   小红书等全渠道内容采集进知识库的 14 个 AI Skill。发现：GitHub
+1. **[JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)** · TypeScript · ~890★  
+   JetBrains 轻量 AI IDE（pi agent + worktree 并行）。发现：X [@indie_maker_fox](https://x.com/indie_maker_fox)
 
-2. **[joewongjc/type4me](https://github.com/joewongjc/type4me)** · Swift · ~1488★  
-   macOS 本地语音输入法 + 大模型润色。发现：GitHub
+2. **[ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)** · Zig · ~1992★  
+   Apple Silicon 本地 LLM 服务，OpenAI/Anthropic 兼容。发现：GitHub
 
-3. **[FluidInference/FluidUse](https://github.com/FluidInference/FluidUse)** · Swift · ~512★  
-   Apple Silicon 本地 computer use。发现：GitHub
+3. **[Jesseovo/last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn)** · Python · ~1921★  
+   搜中国互联网近 30 天内容出研究报告的 Agent Skill。发现：GitHub
 
-4. **[DavidLam-oss/obsidian-wechat-converter](https://github.com/DavidLam-oss/obsidian-wechat-converter)** · ~337★  
-   Obsidian → 公众号 / 小红书等多平台草稿。发现：GitHub
+4. **[Nexting-ai/nexting](https://github.com/Nexting-ai/nexting)** · C · ~1912★  
+   手机远程控 Mac 上 Claude Code / Cursor / Codex。发现：GitHub
 
-5. **[weapp-vite/weapp-vite](https://github.com/weapp-vite/weapp-vite)** · TypeScript · ~513★  
-   Vite 工作流进微信小程序。发现：GitHub
+5. **[boldsoftware/shelley](https://github.com/boldsoftware/shelley)** · Go · ~706★  
+   开源 Go coding agent，轻量可二开。发现：GitHub
 
 ## 仓库结构
 
