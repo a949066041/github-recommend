@@ -6,26 +6,26 @@
 
 最新一天见 [`daily/`](daily/) 下日期最新的文件。本 README 的「最新」一节始终链到当天推荐，并给出前五条预览；完整名单以当日文件为准。
 
-## 最新 · 2026-10-15
+## 最新 · 2026-10-26
 
-完整内容：[daily/2026-10-15.md](daily/2026-10-15.md)
+完整内容：[daily/2026-10-26.md](daily/2026-10-26.md)
 
 来源：GitHub 遗珠筛选（约 200–2000★）+ X 近 48h 仓库推荐。今日前五：
 
-1. **[chubbyguan/chubbyskills](https://github.com/chubbyguan/chubbyskills)** · Python · ~1244★  
-   小红书等全渠道内容采集进知识库的 14 个 AI Skill。发现：GitHub
+1. **[sgaofen/cli-in-wechat](https://github.com/sgaofen/cli-in-wechat)** · TypeScript · ~327★  
+   微信里直接跑 Claude Code / Codex / Gemini / Kimi / OpenCode，手机上审 agent 输出。发现：GitHub
 
-2. **[joewongjc/type4me](https://github.com/joewongjc/type4me)** · Swift · ~1488★  
-   macOS 本地语音输入法 + 大模型润色。发现：GitHub
+2. **[bojieli/greenbubbles](https://github.com/bojieli/greenbubbles)** · Rust · ~405★  
+   让 AI agent 实时读本机微信聊天史，社群/协作上下文直接进模型。发现：GitHub
 
-3. **[FluidInference/FluidUse](https://github.com/FluidInference/FluidUse)** · Swift · ~512★  
-   Apple Silicon 本地 computer use。发现：GitHub
+3. **[0xranx/golembot](https://github.com/0xranx/golembot)** · TypeScript · ~323★  
+   把 Cursor / Claude / Codex 接到飞书·钉钉·企微·微信等，贴合日常协作栈。发现：GitHub
 
-4. **[DavidLam-oss/obsidian-wechat-converter](https://github.com/DavidLam-oss/obsidian-wechat-converter)** · ~337★  
-   Obsidian → 公众号 / 小红书等多平台草稿。发现：GitHub
+4. **[xvirobotics/metabot](https://github.com/xvirobotics/metabot)** · TypeScript · ~997★  
+   飞书 / Telegram 手机端跑 Claude Code 或 Kimi，带共享记忆与定时任务。发现：GitHub
 
-5. **[weapp-vite/weapp-vite](https://github.com/weapp-vite/weapp-vite)** · TypeScript · ~513★  
-   Vite 工作流进微信小程序。发现：GitHub
+5. **[BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)** · TypeScript · ~312★  
+   基于 DeepSeek Harness 的开源多 Bot：长期记忆 + 插件。发现：GitHub
 
 ## 仓库结构
 
