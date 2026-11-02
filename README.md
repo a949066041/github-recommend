@@ -6,26 +6,26 @@
 
 最新一天见 [`daily/`](daily/) 下日期最新的文件。本 README 的「最新」一节始终链到当天推荐，并给出前五条预览；完整名单以当日文件为准。
 
-## 最新 · 2026-10-15
+## 最新 · 2026-11-02
 
-完整内容：[daily/2026-10-15.md](daily/2026-10-15.md)
+完整内容：[daily/2026-11-02.md](daily/2026-11-02.md)
 
 来源：GitHub 遗珠筛选（约 200–2000★）+ X 近 48h 仓库推荐。今日前五：
 
-1. **[chubbyguan/chubbyskills](https://github.com/chubbyguan/chubbyskills)** · Python · ~1244★  
-   小红书等全渠道内容采集进知识库的 14 个 AI Skill。发现：GitHub
+1. **[haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan)** · JavaScript · ~1762★  
+   Claude/Codex 画可交互代码结构图。发现：X
 
-2. **[joewongjc/type4me](https://github.com/joewongjc/type4me)** · Swift · ~1488★  
-   macOS 本地语音输入法 + 大模型润色。发现：GitHub
+2. **[AThevon/genjutsu](https://github.com/AThevon/genjutsu)** · Python · ~721★  
+   动效/微交互创意 coding skills。发现：GitHub
 
-3. **[FluidInference/FluidUse](https://github.com/FluidInference/FluidUse)** · Swift · ~512★  
-   Apple Silicon 本地 computer use。发现：GitHub
+3. **[kwakseongjae/oh-my-design](https://github.com/kwakseongjae/oh-my-design)** · JavaScript · ~553★  
+   给 agent 装公司级 DESIGN.md 体系。发现：GitHub
 
-4. **[DavidLam-oss/obsidian-wechat-converter](https://github.com/DavidLam-oss/obsidian-wechat-converter)** · ~337★  
-   Obsidian → 公众号 / 小红书等多平台草稿。发现：GitHub
+4. **[luongnv89/asm](https://github.com/luongnv89/asm)** · TypeScript · ~962★  
+   跨工具的通用 Agent Skill 管理器。发现：GitHub
 
-5. **[weapp-vite/weapp-vite](https://github.com/weapp-vite/weapp-vite)** · TypeScript · ~513★  
-   Vite 工作流进微信小程序。发现：GitHub
+5. **[stavyan/TinyShop-UniApp](https://github.com/stavyan/TinyShop-UniApp)** · Vue · ~1779★  
+   开源微商城 uni-app 端，便于二开。发现：GitHub
 
 ## 仓库结构
 
